@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Yori Kedir
 
-<!--
-**yusra-kedir/yusra-kedir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 I'm a Flutter student and beginner developer learning to build mobile apps.  
+💻 I love creating apps that look beautiful and run smoothly.  
+🌱 I’m currently learning: Flutter & Dart  
+⚡ Fun fact: I started coding from my phone before using a laptop!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- 📧 Email: your@email.com  
+- 💬 Telegram / Instagram: @yourusername  
+
+---
+
+### 🧠 My Goals
+- Learn Flutter deeply  
+- Build and publish my first mobile app  
+- Share my projects on GitHub regularly
