@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me
 - 📧 Email: yuserakhedir@email.com  
-- 💬 Telegram / Instagram: @_yori_8489  
+- 💬 Telegram / Instagram: @Avicenist  
 
 ---
 
